@@ -1,0 +1,1 @@
+Aplicação em React para o MegaHack 2020
